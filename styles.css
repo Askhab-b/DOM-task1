@@ -1,0 +1,13 @@
+.textCenter {
+display: flex;
+justify-content: space-evenly;
+margin: 10px 25%;
+} 
+
+.container {
+border-radius: 8%;
+border: 2px solid red ;
+width: 30%;
+margin: auto;
+padding: 2%;
+}
